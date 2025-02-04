@@ -1,2 +1,1 @@
-# PythonEDA
-The repo contains EDA on the the customer, transaction and customer_credit_profiles to recommend the Altiq Bank to find their potential market for launch of new customer
+The repo contains EDA on  the customer, transaction and customer_credit_profiles data of the Altiq Bank to  find their potential market for the credit card launch. The project starts with the basic EDA analysis of the datasets and identifying the outliers using various methods like histograms, standard deviations, and identifying the potential age group to introduce the new credit card. The dataset is referred to from the Kaggle Website. 
